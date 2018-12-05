@@ -1,3 +1,3 @@
-HashMap初始化参数
-put方法
-get方法
+# HashMap初始化
+# put方法
+# get方法
